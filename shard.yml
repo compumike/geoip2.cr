@@ -4,7 +4,8 @@ license: MIT
 
 dependencies:
   maxminddb:
-    github: delef/maxminddb.cr
+    github: compumike/maxminddb.cr
+    branch: read-from-disk-not-memory
 
 authors:
   - delef <delef@ya.ru>
